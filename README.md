@@ -1,6 +1,5 @@
-# Python3-Learning
-## 第一阶段 PSL和Python编程
-### ——强化Python基础    
+
+## 第一阶段 PSL和Python编程——强化Python基础    
 [字符串]   
 [列表]   
 [条件判断]    
